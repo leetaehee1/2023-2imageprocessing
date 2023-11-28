@@ -1,0 +1,646 @@
+C:\Users\AI-07\anaconda3\envs\imagepro\python.exe C:\dev\imagepro\0702googleface.py
+face_annotations {
+  bounding_poly {
+    vertices {
+      x: 132
+      y: 61
+    }
+    vertices {
+      x: 277
+      y: 61
+    }
+    vertices {
+      x: 277
+      y: 230
+    }
+    vertices {
+      x: 132
+      y: 230
+    }
+  }
+  fd_bounding_poly {
+    vertices {
+      x: 146
+      y: 99
+    }
+    vertices {
+      x: 261
+      y: 99
+    }
+    vertices {
+      x: 261
+      y: 213
+    }
+    vertices {
+      x: 146
+      y: 213
+    }
+  }
+  landmarks {
+    type_: LEFT_EYE
+    position {
+      x: 183.28096
+      y: 142.009705
+      z: 5.60283661e-006
+    }
+  }
+  landmarks {
+    type_: RIGHT_EYE
+    position {
+      x: 228.625549
+      y: 142.826492
+      z: 1.38755906
+    }
+  }
+  landmarks {
+    type_: LEFT_OF_LEFT_EYEBROW
+    position {
+      x: 168.951447
+      y: 129.605591
+      z: 3.72664785
+    }
+  }
+  landmarks {
+    type_: RIGHT_OF_LEFT_EYEBROW
+    position {
+      x: 196.598068
+      y: 130.12587
+      z: -7.46238136
+    }
+  }
+  landmarks {
+    type_: LEFT_OF_RIGHT_EYEBROW
+    position {
+      x: 217.438126
+      y: 130.479156
+      z: -6.80526066
+    }
+  }
+  landmarks {
+    type_: RIGHT_OF_RIGHT_EYEBROW
+    position {
+      x: 242.985825
+      y: 131.068542
+      z: 5.97316599
+    }
+  }
+  landmarks {
+    type_: MIDPOINT_BETWEEN_EYES
+    position {
+      x: 207.065582
+      y: 140.291901
+      z: -7.94096518
+    }
+  }
+  landmarks {
+    type_: NOSE_TIP
+    position {
+      x: 205.654404
+      y: 166.456131
+      z: -20.8000069
+    }
+  }
+  landmarks {
+    type_: UPPER_LIP
+    position {
+      x: 205.001617
+      y: 183.009796
+      z: -11.4365959
+    }
+  }
+  landmarks {
+    type_: LOWER_LIP
+    position {
+      x: 206.747574
+      y: 196.47551
+      z: -8.62731171
+    }
+  }
+  landmarks {
+    type_: MOUTH_LEFT
+    position {
+      x: 190.448929
+      y: 189.028564
+      z: -0.995377779
+    }
+  }
+  landmarks {
+    type_: MOUTH_RIGHT
+    position {
+      x: 221.873352
+      y: 189.49205
+      z: 0.142637193
+    }
+  }
+  landmarks {
+    type_: MOUTH_CENTER
+    position {
+      x: 206.129578
+      y: 189.128311
+      z: -8.37774467
+    }
+  }
+  landmarks {
+    type_: NOSE_BOTTOM_RIGHT
+    position {
+      x: 217.38028
+      y: 171.716507
+      z: -4.93260193
+    }
+  }
+  landmarks {
+    type_: NOSE_BOTTOM_LEFT
+    position {
+      x: 194.45697
+      y: 170.018051
+      z: -5.47096252
+    }
+  }
+  landmarks {
+    type_: NOSE_BOTTOM_CENTER
+    position {
+      x: 205.725327
+      y: 173.839508
+      z: -11.4573765
+    }
+  }
+  landmarks {
+    type_: LEFT_EYE_TOP_BOUNDARY
+    position {
+      x: 182.964218
+      y: 137.927277
+      z: -2.32810497
+    }
+  }
+  landmarks {
+    type_: LEFT_EYE_RIGHT_CORNER
+    position {
+      x: 191.193954
+      y: 142.941101
+      z: 0.25570029
+    }
+  }
+  landmarks {
+    type_: LEFT_EYE_BOTTOM_BOUNDARY
+    position {
+      x: 182.926682
+      y: 145.385757
+      z: -0.521336794
+    }
+  }
+  landmarks {
+    type_: LEFT_EYE_LEFT_CORNER
+    position {
+      x: 174.553452
+      y: 142.274109
+      z: 3.58611155
+    }
+  }
+  landmarks {
+    type_: RIGHT_EYE_TOP_BOUNDARY
+    position {
+      x: 229.677872
+      y: 138.352844
+      z: -0.901951134
+    }
+  }
+  landmarks {
+    type_: RIGHT_EYE_RIGHT_CORNER
+    position {
+      x: 237.008804
+      y: 143.670471
+      z: 5.50665236
+    }
+  }
+  landmarks {
+    type_: RIGHT_EYE_BOTTOM_BOUNDARY
+    position {
+      x: 229.251266
+      y: 146.296692
+      z: 0.8756845
+    }
+  }
+  landmarks {
+    type_: RIGHT_EYE_LEFT_CORNER
+    position {
+      x: 220.910797
+      y: 143.445
+      z: 1.09975362
+    }
+  }
+  landmarks {
+    type_: LEFT_EYEBROW_UPPER_MIDPOINT
+    position {
+      x: 182.812881
+      y: 125.850243
+      z: -4.48153782
+    }
+  }
+  landmarks {
+    type_: RIGHT_EYEBROW_UPPER_MIDPOINT
+    position {
+      x: 230.56662
+      y: 127.04924
+      z: -3.04532576
+    }
+  }
+  landmarks {
+    type_: LEFT_EAR_TRAGION
+    position {
+      x: 156.149734
+      y: 154.502991
+      z: 52.2199
+    }
+  }
+  landmarks {
+    type_: RIGHT_EAR_TRAGION
+    position {
+      x: 252.319275
+      y: 160.613297
+      z: 54.8273811
+    }
+  }
+  landmarks {
+    type_: FOREHEAD_GLABELLA
+    position {
+      x: 207.082977
+      y: 130.698776
+      z: -8.63321495
+    }
+  }
+  landmarks {
+    type_: CHIN_GNATHION
+    position {
+      x: 206.803909
+      y: 211.331696
+      z: -2.51459718
+    }
+  }
+  landmarks {
+    type_: CHIN_LEFT_GONION
+    position {
+      x: 166.804306
+      y: 188.715027
+      z: 34.2075577
+    }
+  }
+  landmarks {
+    type_: CHIN_RIGHT_GONION
+    position {
+      x: 243.884399
+      y: 188.321899
+      z: 36.7010498
+    }
+  }
+  landmarks {
+    type_: LEFT_CHEEK_CENTER
+    position {
+      x: 175.790054
+      y: 171.149567
+      z: 3.23333788
+    }
+  }
+  landmarks {
+    type_: RIGHT_CHEEK_CENTER
+    position {
+      x: 235.181656
+      y: 172.405701
+      z: 5.11117458
+    }
+  }
+  roll_angle: 0.960669696
+  pan_angle: 1.777125
+  tilt_angle: -0.0983975753
+  detection_confidence: 0.9921875
+  landmarking_confidence: 0.475827247
+  joy_likelihood: VERY_UNLIKELY
+  sorrow_likelihood: VERY_UNLIKELY
+  anger_likelihood: VERY_UNLIKELY
+  surprise_likelihood: VERY_UNLIKELY
+  under_exposed_likelihood: VERY_UNLIKELY
+  blurred_likelihood: VERY_UNLIKELY
+  headwear_likelihood: VERY_UNLIKELY
+}
+face_annotations {
+  bounding_poly {
+    vertices {
+      x: 378
+      y: 61
+    }
+    vertices {
+      x: 512
+      y: 61
+    }
+    vertices {
+      x: 512
+      y: 216
+    }
+    vertices {
+      x: 378
+      y: 216
+    }
+  }
+  fd_bounding_poly {
+    vertices {
+      x: 393
+      y: 97
+    }
+    vertices {
+      x: 498
+      y: 97
+    }
+    vertices {
+      x: 498
+      y: 203
+    }
+    vertices {
+      x: 393
+      y: 203
+    }
+  }
+  landmarks {
+    type_: LEFT_EYE
+    position {
+      x: 433.725342
+      y: 137.655655
+      z: 0.000122308731
+    }
+  }
+  landmarks {
+    type_: RIGHT_EYE
+    position {
+      x: 472.723938
+      y: 137.934616
+      z: 6.64182758
+    }
+  }
+  landmarks {
+    type_: LEFT_OF_LEFT_EYEBROW
+    position {
+      x: 420.84668
+      y: 127.880386
+      z: 0.723580241
+    }
+  }
+  landmarks {
+    type_: RIGHT_OF_LEFT_EYEBROW
+    position {
+      x: 446.375885
+      y: 127.142426
+      z: -5.79505682
+    }
+  }
+  landmarks {
+    type_: LEFT_OF_RIGHT_EYEBROW
+    position {
+      x: 463.016724
+      y: 127.813911
+      z: -2.76076651
+    }
+  }
+  landmarks {
+    type_: RIGHT_OF_RIGHT_EYEBROW
+    position {
+      x: 485.725494
+      y: 127.615509
+      z: 12.0100985
+    }
+  }
+  landmarks {
+    type_: MIDPOINT_BETWEEN_EYES
+    position {
+      x: 455.237976
+      y: 136.791245
+      z: -4.46413612
+    }
+  }
+  landmarks {
+    type_: NOSE_TIP
+    position {
+      x: 454.653564
+      y: 158.703461
+      z: -14.5904694
+    }
+  }
+  landmarks {
+    type_: UPPER_LIP
+    position {
+      x: 452.884094
+      y: 173.886246
+      z: -5.5516839
+    }
+  }
+  landmarks {
+    type_: LOWER_LIP
+    position {
+      x: 451.581512
+      y: 189.399551
+      z: -2.31252337
+    }
+  }
+  landmarks {
+    type_: MOUTH_LEFT
+    position {
+      x: 433.094543
+      y: 179.407623
+      z: 2.01050949
+    }
+  }
+  landmarks {
+    type_: MOUTH_RIGHT
+    position {
+      x: 466.829376
+      y: 178.959518
+      z: 7.48752785
+    }
+  }
+  landmarks {
+    type_: MOUTH_CENTER
+    position {
+      x: 451.685242
+      y: 180.995636
+      z: -2.53296232
+    }
+  }
+  landmarks {
+    type_: NOSE_BOTTOM_RIGHT
+    position {
+      x: 463.849487
+      y: 163.535034
+      z: 1.25493515
+    }
+  }
+  landmarks {
+    type_: NOSE_BOTTOM_LEFT
+    position {
+      x: 441.673309
+      y: 162.130051
+      z: -2.40969658
+    }
+  }
+  landmarks {
+    type_: NOSE_BOTTOM_CENTER
+    position {
+      x: 453.498932
+      y: 165.591248
+      z: -5.98105764
+    }
+  }
+  landmarks {
+    type_: LEFT_EYE_TOP_BOUNDARY
+    position {
+      x: 433.953217
+      y: 133.669296
+      z: -2.3495841
+    }
+  }
+  landmarks {
+    type_: LEFT_EYE_RIGHT_CORNER
+    position {
+      x: 442.329926
+      y: 138.012222
+      z: 1.41355598
+    }
+  }
+  landmarks {
+    type_: LEFT_EYE_BOTTOM_BOUNDARY
+    position {
+      x: 433.811035
+      y: 140.518036
+      z: -0.293885589
+    }
+  }
+  landmarks {
+    type_: LEFT_EYE_LEFT_CORNER
+    position {
+      x: 425.45636
+      y: 138.328522
+      z: 2.05524516
+    }
+  }
+  landmarks {
+    type_: RIGHT_EYE_TOP_BOUNDARY
+    position {
+      x: 473.406
+      y: 134.131226
+      z: 4.41893101
+    }
+  }
+  landmarks {
+    type_: RIGHT_EYE_RIGHT_CORNER
+    position {
+      x: 481.172607
+      y: 138.221573
+      z: 11.4974737
+    }
+  }
+  landmarks {
+    type_: RIGHT_EYE_BOTTOM_BOUNDARY
+    position {
+      x: 473.154785
+      y: 140.54924
+      z: 6.42332363
+    }
+  }
+  landmarks {
+    type_: RIGHT_EYE_LEFT_CORNER
+    position {
+      x: 465.891937
+      y: 138.290985
+      z: 5.37180281
+    }
+  }
+  landmarks {
+    type_: LEFT_EYEBROW_UPPER_MIDPOINT
+    position {
+      x: 433.986481
+      y: 123.873657
+      z: -5.03569555
+    }
+  }
+  landmarks {
+    type_: RIGHT_EYEBROW_UPPER_MIDPOINT
+    position {
+      x: 474.678864
+      y: 124.178833
+      z: 2.0689435
+    }
+  }
+  landmarks {
+    type_: LEFT_EAR_TRAGION
+    position {
+      x: 396.490234
+      y: 150.39328
+      z: 42.8320351
+    }
+  }
+  landmarks {
+    type_: RIGHT_EAR_TRAGION
+    position {
+      x: 488.758728
+      y: 147.487457
+      z: 58.6932716
+    }
+  }
+  landmarks {
+    type_: FOREHEAD_GLABELLA
+    position {
+      x: 455.213531
+      y: 127.451233
+      z: -5.56176138
+    }
+  }
+  landmarks {
+    type_: CHIN_GNATHION
+    position {
+      x: 450.63147
+      y: 202.797348
+      z: 3.82681131
+    }
+  }
+  landmarks {
+    type_: CHIN_LEFT_GONION
+    position {
+      x: 409.079681
+      y: 182.031281
+      z: 30.3656845
+    }
+  }
+  landmarks {
+    type_: CHIN_RIGHT_GONION
+    position {
+      x: 482.084961
+      y: 180.728134
+      z: 42.7773438
+    }
+  }
+  landmarks {
+    type_: LEFT_CHEEK_CENTER
+    position {
+      x: 423.703827
+      y: 164.067261
+      z: 3.27311397
+    }
+  }
+  landmarks {
+    type_: RIGHT_CHEEK_CENTER
+    position {
+      x: 478.397339
+      y: 163.847275
+      z: 12.47
+    }
+  }
+  roll_angle: 2.5042336
+  pan_angle: 9.61622715
+  tilt_angle: -3.16844058
+  detection_confidence: 0.66796875
+  landmarking_confidence: 0.681404531
+  joy_likelihood: UNLIKELY
+  sorrow_likelihood: VERY_UNLIKELY
+  anger_likelihood: VERY_UNLIKELY
+  surprise_likelihood: VERY_UNLIKELY
+  under_exposed_likelihood: VERY_UNLIKELY
+  blurred_likelihood: VERY_UNLIKELY
+  headwear_likelihood: VERY_UNLIKELY
+}
+
