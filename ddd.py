@@ -21,7 +21,7 @@ class RightEye:
 
 def detect_face(face_file, max_results=10):
     client = vision.ImageAnnotatorClient(
-        client_options={"api_key": "AIzaSyDCp3xpHszWnUmiWla4_9NkMT208A3olvY"}
+        client_options={"api_key": " "}
     )
     content = face_file.read()
     image = vision.Image(content=content)
